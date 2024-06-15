@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+void main()
 {
   add2num();
   biggestof3();
